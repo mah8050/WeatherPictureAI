@@ -1,0 +1,5 @@
+{
+  "name": "Morning Nature Image Generator",
+  "description": "An application that generates a beautiful image of nature in the morning with flowers and overlays 'Good Morning' text in Persian/Urdu.",
+  "requestFramePermissions": []
+}
